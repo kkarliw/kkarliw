@@ -20,7 +20,7 @@
 - 🏢 **Fundadora de Clow Technology Studio** - Agencia de desarrollo web orientada a negocios locales
 - 🚀 **Emprendedora digital** - Transformando negocios a través de soluciones tecnológicas
 - ⚡ **Enfoque** en arquitectura de software, metodologías ágiles y experiencia de usuario
-- 💡 **Apasionada** por SaaS, telemedicina, turismo digital y emprendimiento tecnológico
+- 💡 **Apasionada** por SaaS, health technology y IA engineer
 
 ---
 
