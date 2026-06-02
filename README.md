@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 Hola, soy Karla Amaranto
+👋 Hola, soy Karla Amaranto
  
 ### Full Stack Developer · AI Integration · SaaS Architecture
  
@@ -179,7 +179,7 @@ Sitio web para empresa de apartamentos turísticos y residenciales en Cartagena.
 | 📧 **Email** | amarantojimenezk@gmail.com |
 | 💬 **WhatsApp** | +57 310 708 6902 |
 | 💼 **LinkedIn** | [linkedin.com/in/karla-amaranto-05615631a](https://www.linkedin.com/in/karla-amaranto-05615631a ) |
-| 🐙 **GitHub** | [@karlamarant0](https://github.com/karlamarant0) |
+| 🐙 **GitHub** | [@karlamarant0](https://github.com/kkarliw) |
 
 </div>
 
