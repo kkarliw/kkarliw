@@ -1,5 +1,5 @@
 <div align="center">
-# ¡Hola! Soy Karla Amaranto 👋
+# 👋 Hola, soy Karla Amaranto
  
 ### Full Stack Developer · AI Integration · SaaS Architecture
  
@@ -188,7 +188,7 @@ Sitio web para empresa de apartamentos turísticos y residenciales en Cartagena.
 <div align="center">
   
 
-💼 Interesada en oportunidades junior/full stack donde pueda aportar, aprender de equipos experimentados y seguir desarrollando soluciones escalables con tecnologías modernas.
+Interesada en oportunidades junior/full stack donde pueda aportar, aprender de equipos experimentados y seguir desarrollando soluciones escalables con tecnologías modernas.
 
 </div>
 
