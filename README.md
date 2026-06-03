@@ -3,7 +3,7 @@
  
 ### Full Stack Developer · AI Integration · SaaS Architecture
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+React+%2B+Spring+Boot;Fundadora+de+Clow+Technology+Studio;Construyendo+Kenk%C5%8D+Medical+OS+%F0%9F%A9%BA;SaaS+%7C+IA+aplicada+%7C+Arquitectura+escalable)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+React+%2B+Spring+Boot;Fundadora+de+Clow+Solutions;Construyendo+Kenk%C5%8D+Medical+OS+%F0%9F%A9%BA;SaaS+%7C+IA+aplicada+%7C+Arquitectura+escalable)](https://git.io/typing-svg)
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karla_Amaranto-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-amaranto-05615631a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-clowsolutions.com-black?style=flat-square&logo=vercel&logoColor=white)](https://clowsolutions.com)
@@ -76,8 +76,8 @@ Sistema multi-tenant para consultorios médicos en Latinoamérica con inteligenc
 - 🔐 Autenticación JWT y control de roles avanzado
 - 📊 Multi-tenant architecture escalable
 
-**Stack:** React • TypeScript • Java • Spring Boot • PostgreSQL • OpenAI API  
-**Estado:** En desarrollo activo | [Visita clowsolutions.com](https://clowsolutions.com)
+**Stack:** React • TypeScript • Java • Spring Boot • PostgreSQL • AI API  
+**Estado:** En desarrollo activo 
 
 ---
 
@@ -92,7 +92,7 @@ Marketplace laboral inteligente con matching automático entre candidatos y vaca
 - ⚡ Rendimiento optimizado
 
 **Stack:** React • JavaScript • Node.js • Express.js • MongoDB  
-**Resultado:** Matching inteligente reduciendo tiempo de búsqueda | [Código en GitHub](#)
+**Resultado:** Matching inteligente reduciendo tiempo de búsqueda | [Código en GitHub](#Joblify)
 
 ---
 
