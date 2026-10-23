@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="./header.svg" alt="Karla Amaranto" width="100%">
+<br>
+
+[![Nombre](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=100000&repeat=false&color=E5383B&center=true&vCenter=true&width=720&height=70&lines=KARLA+AMARANTO)](https://github.com/kkarliw)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=E5383B&center=true&vCenter=true&width=620&lines=Desarrolladora+Full+Stack+%C2%B7+Java+%2B+Spring+Boot;Integraci%C3%B3n+de+IA+en+productos+SaaS;Arquitectura+multi-tenant+y+APIs+REST;Fundadora+de+Clow)](https://git.io/typing-svg)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karla_Amaranto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-amaranto-05615631a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-clowsolutions.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://clowsolutions.com)
-[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarantojimenezk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karla_Amaranto-E5383B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-amaranto-05615631a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-clowsolutions.com-E5383B?style=for-the-badge&logo=vercel&logoColor=white)](https://clowsolutions.com)
+[![Email](https://img.shields.io/badge/Email-Contacto-E5383B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarantojimenezk@gmail.com)
 
 </div>
 
@@ -144,6 +146,6 @@ Catálogo de propiedades, sistema de reservas, galería y chat con clientes para
 
 [clowsolutions.com](https://clowsolutions.com) · [amarantojimenezk@gmail.com](mailto:amarantojimenezk@gmail.com) · [LinkedIn](https://www.linkedin.com/in/karla-amaranto-05615631a/) · [GitHub](https://github.com/kkarliw)
 
-<img src="./footer.svg" alt="" width="100%">
+[![Cierre](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1500&color=E5383B&center=true&vCenter=true&width=520&lines=Abierta+a+oportunidades+junior+y+full+stack)](https://www.linkedin.com/in/karla-amaranto-05615631a/)
 
 </div>
