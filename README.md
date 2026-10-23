@@ -45,17 +45,38 @@ Una posición junior o full stack en un equipo donde aportar valor y aprender de
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,prisma,react,ts,js,tailwind,postgres,mongodb,mysql&perline=12" alt="Tecnologías principales">
+[![Stack](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=E5383B&center=true&vCenter=true&width=640&height=45&lines=Java+%C2%B7+Spring+Boot+%C2%B7+Django;React+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;PostgreSQL+%C2%B7+MySQL+%C2%B7+MongoDB;OpenAI+%C2%B7+Claude+%C2%B7+Antigravity)](#stack)
 
-<br><br>
+<br>
 
-<img src="https://skillicons.dev/icons?i=idea,git,github,figma,vercel&perline=12" alt="Herramientas">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API">
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">
-<img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity">
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<br>
+<img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+<br>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<br>
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<br>
+<img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+<img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+<img src="https://img.shields.io/badge/-Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity">
+<img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 
 </div>
 
@@ -65,52 +86,79 @@ Una posición junior o full stack en un equipo donde aportar valor y aprender de
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
 
-### Kenkō
-**Plataforma SaaS de gestión clínica** · *En desarrollo*
+<img src="https://img.shields.io/badge/-KENK%C5%8C-E5383B?style=for-the-badge" alt="Kenkō">
 
-Sistema multi-tenant para consultorios médicos. Incluye transcripción de consultas y resúmenes clínicos con OpenAI, telemedicina, autenticación JWT y control de acceso por roles.
+**SaaS de gestión clínica con IA**
 
-`Java` `Spring Boot` `React` `TypeScript` `PostgreSQL`
+<img src="https://img.shields.io/badge/-En_desarrollo-F5A623?style=flat-square" alt="En desarrollo">
+<img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square" alt="Spring Boot">
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square" alt="React">
+<img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square" alt="OpenAI">
+
+<details>
+<summary>Ver detalles</summary>
+<br>
+Multi-tenant, transcripción de consultas, resúmenes clínicos, telemedicina, JWT y roles.
+</details>
 
 </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
 
-### Joblify
-**Plataforma de reclutamiento**
+<img src="https://img.shields.io/badge/-JOBLIFY-E5383B?style=for-the-badge" alt="Joblify">
 
-Marketplace laboral con matching entre candidatos y vacantes, recomendaciones personalizadas y vistas separadas para candidato, empresa y administrador.
+**Reclutamiento con matching inteligente**
 
-`React` `Node.js` `Express` `MongoDB`
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square" alt="React">
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square" alt="Node.js">
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square" alt="MongoDB">
 
-[Ver repositorio](https://github.com/kkarliw)
+<a href="https://github.com/kkarliw"><img src="https://img.shields.io/badge/Ver_repositorio-181717?style=flat-square&logo=github&logoColor=white" alt="Repositorio"></a>
+
+<details>
+<summary>Ver detalles</summary>
+<br>
+Recomendaciones por perfil y vistas para candidato, empresa y administrador.
+</details>
 
 </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
 
-### GiuTours
-**Sitio web de turismo**
+<img src="https://img.shields.io/badge/-GIUTOURS-E5383B?style=for-the-badge" alt="GiuTours">
 
-Catálogo de tours, pagos integrados y optimización SEO, con diseño responsive pensado para conversión.
+**Turismo digital con pagos y SEO**
 
-`React` `Tailwind CSS`
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square" alt="React">
+<img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square" alt="Tailwind CSS">
 
-[giutours.com](https://giutours.com)
+<a href="https://giutours.com"><img src="https://img.shields.io/badge/Ver_sitio-E5383B?style=flat-square&logo=googlechrome&logoColor=white" alt="giutours.com"></a>
+
+<details>
+<summary>Ver detalles</summary>
+<br>
+Catálogo de tours, pagos integrados y diseño responsive orientado a conversión.
+</details>
 
 </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
 
-### Venezia Tower House
+<img src="https://img.shields.io/badge/-VENEZIA_TOWER_HOUSE-E5383B?style=for-the-badge" alt="Venezia Tower House">
+
 **Plataforma inmobiliaria**
 
-Catálogo de propiedades, sistema de reservas, galería y chat con clientes para apartamentos en Cartagena.
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square" alt="React">
+<img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square" alt="Tailwind CSS">
 
-`React` `Tailwind CSS`
+<a href="https://veneziatowerhouse.com"><img src="https://img.shields.io/badge/Ver_sitio-E5383B?style=flat-square&logo=googlechrome&logoColor=white" alt="veneziatowerhouse.com"></a>
 
-[veneziatowerhouse.com](https://veneziatowerhouse.com)
+<details>
+<summary>Ver detalles</summary>
+<br>
+Catálogo de propiedades, reservas, galería y chat con clientes en Cartagena.
+</details>
 
 </td>
   </tr>
